@@ -34,7 +34,6 @@ This project is licensed under the GNU General Public License v3.0 - see the LIC
 
 ## Acknowledgments
 
-
 Research supervised by:
 * Professor Katsumi Inoue (NII)
 * Professor Samir Aknine (UCBL)
